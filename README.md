@@ -1,4 +1,4 @@
-# Google-PlayStore-Sentiment-Analysis
+# Play-Store-Apps-Data-Visualization-And-Analysis
 ![Python](https://img.shields.io/badge/Python-3.9.2-blueviolet)
 ![Scikit learn](https://img.shields.io/badge/sklearn-0.24.2-red)
 ![Numpy](https://img.shields.io/badge/Numpy-1.19.5-green)
